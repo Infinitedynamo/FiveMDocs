@@ -1,3 +1,3 @@
 # 👮  Member Roster
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Member Roster</p></figcaption></figure>
+{% embed url="https://app.plusdocs.com/httpsuprise-roleplay-documentationgi/snapshot/clsge76po008ljw08psuyyia8" %}

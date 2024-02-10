@@ -1,3 +1,3 @@
 # 🚓  Vehicle Roster
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Vehicle Roster</p></figcaption></figure>
+{% embed url="https://app.plusdocs.com/httpsuprise-roleplay-documentationgi/snapshot/clsgej6yd001rl408m0p0kpb6" %}
