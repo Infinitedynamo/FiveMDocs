@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Uprise Roleplay Documentation](README.md)
+* [😀 Granite State Roleplay Documentation](README.md)
 
 ## New Hampshire State Police
 
