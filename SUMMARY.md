@@ -7,7 +7,7 @@
 * [👮  Member Roster](blaine-county-sheriffs-office/member-roster.md)
 * [🚓  Vehicle Roster](blaine-county-sheriffs-office/vehicle-roster.md)
 * [👕 Uniform Roster](blaine-county-sheriffs-office/uniform-roster.md)
-* [📄 BCSO SOP](blaine-county-sheriffs-office/bcso-sop.md)
+* [📄 New Hampshire State Police SOP](blaine-county-sheriffs-office/new-hampshire-state-police-sop.md)
 
 ## San Andreas State Police
 

@@ -1,10 +1,10 @@
 ---
-description: Blaine County Sheriff's Office SOP's. Read thoroughly.
+description: New Hampshire State Police SOP. Read thoroughly.
 ---
 
-# 📄 BCSO SOP
+# 📄 New Hampshire State Police SOP
 
-### Titles of the BCSO Standard Operating Procedures
+### Titles of the NHSP Standard Operating Procedures
 
 1\. Law Enforcement Agency Role
 
@@ -52,7 +52,7 @@ description: Blaine County Sheriff's Office SOP's. Read thoroughly.
 
 A)​ Purpose
 
-&#x20;       a) The purpose of the Blaine County Sheriff’s Office is to create a sense of peace and safety within Blaine County, while also creating a back yet serious environment for its deputies. This document was created to outline the office's structure, within Rank, Uniformity, and discipline.
+&#x20;       a) The purpose of the New Hampshire State Police  is to create a sense of peace and safety within Blaine County, while also creating a back yet serious environment for its deputies. This document was created to outline the office's structure, within Rank, Uniformity, and discipline.
 
 B) Oath of Office
 
@@ -70,7 +70,7 @@ C) Code of Ethics
 
 ### Code of Ethics​
 
-As a member of the Blaine County Sheriff’s Office, my first duty is to serve the people of San Andreas. I will safeguard lives and property, and protect the innocent against deception, the weak against oppression or intimidation, and the peaceful against violence or disorder. Above all else, I shall respect the constitutional rights of all people to liberty, equality, and justice.
+As a member of the New Hampshire State Police , my first duty is to serve the people of New Hampshire. I will safeguard lives and property, and protect the innocent against deception, the weak against oppression or intimidation, and the peaceful against violence or disorder. Above all else, I shall respect the constitutional rights of all people to liberty, equality, and justice.
 
 \
 
@@ -90,7 +90,7 @@ I recognize the badge of my office as a symbol of public faith and accept it as 
 
 A) ​Reason for the Structure
 
-&#x20;       a) Each Department has a developed structure within Uprise Roleplay as it helps create a safe, effective, and efficient chain of command and stance as to where members stand.
+&#x20;       a) Each Department has a developed structure within GSRP as it helps create a safe, effective, and efficient chain of command and stance as to where members stand.
 
 &#x20;       a) Promotions, will be on a case-by-case basis until achieving the rank of Sergeant, Based on Roleplay, leadership skills, and Activity; not tenure or time overall in the community.
 
@@ -112,7 +112,7 @@ B) Membership Ranks
 
 D) Supervisor Ranks
 
-&#x20;       a) Sergeant&#x20;
+&#x20;       a) Captain
 
 &#x20;       b) Staff Sergeant&#x20;
 
@@ -124,9 +124,9 @@ E) Command Staff
 
 F) High Command
 
-&#x20;       a) Undersheriff
+&#x20;       a) Lieutenant Colonel
 
-&#x20;       b) Sheriff\
+&#x20;       b) Colonel\
 \
 
 
