@@ -16,7 +16,7 @@ description: New Hampshire State Police SOP. Read thoroughly.
 
 2\. Rank Structure
 
-3\. Operational Structure within BCSO
+3\. Operational Structure within NHSP
 
 &#x20;       a. Patrol Operations
 
@@ -52,13 +52,13 @@ description: New Hampshire State Police SOP. Read thoroughly.
 
 A)​ Purpose
 
-&#x20;       a) The purpose of the New Hampshire State Police  is to create a sense of peace and safety within Blaine County, while also creating a back yet serious environment for its deputies. This document was created to outline the office's structure, within Rank, Uniformity, and discipline.
+&#x20;       a) The purpose of the New Hampshire State Police is to create a sense of peace and safety within New Hampshire, while also creating a back yet serious environment for its deputies. This document was created to outline the office's structure, within Rank, Uniformity, and discipline.
 
 B) Oath of Office
 
 &#x20;       a) All officers shall take an “Oath of Office” before assuming sworn status or when receiving a promotion to a higher sworn rank. Sworn personnel
 
-&#x20;           will abide by the “Oath of Office.” The “Oath of Office” is a pledge to uphold the Laws of San Andreas
+&#x20;           will abide by the “Oath of Office.” The “Oath of Office” is a pledge to uphold the Laws of New Hampshire
 
 C) Code of Ethics
 
@@ -94,31 +94,31 @@ A) ​Reason for the Structure
 
 &#x20;       a) Promotions, will be on a case-by-case basis until achieving the rank of Sergeant, Based on Roleplay, leadership skills, and Activity; not tenure or time overall in the community.
 
-&#x20;                    i) Asking for a promotion, or asking in a roundabout way, will result in a full reset of your rank in the Sheriff’s Office.
+&#x20;                    i) Asking for a promotion, or asking in a roundabout way, will result in a full reset of your rank in the State Police.
 
-&#x20;                    ii) Ranks past the rank of Sergeant are Competitive, meaning the best-qualified Deputies will achieve those ranks.
+&#x20;                    ii) Ranks past the rank of Lieutenant are Competitive, meaning the best-qualified Sergeants will achieve those ranks.
 
 ​
 
 B) Membership Ranks
 
-&#x20;       a) Probationary
+&#x20;       a) Trooper
 
-&#x20;       b) Deputy I&#x20;
+&#x20;       b) Corporal
 
-&#x20;       c) Deputy II&#x20;
+&#x20;       c) Sergeant
 
-&#x20;       d) Senior Deputy
+&#x20;       d) Senior Sergeant
 
 D) Supervisor Ranks
 
-&#x20;       a) Captain
+&#x20;       a) Lieutenant
 
-&#x20;       b) Staff Sergeant&#x20;
+&#x20;       b) Captain
 
 E) Command Staff
 
-&#x20;       a) Lieutenant&#x20;
+&#x20;       a) Major
 
 &#x20;       b) Field Training Officer
 
@@ -126,7 +126,7 @@ F) High Command
 
 &#x20;       a) Lieutenant Colonel
 
-&#x20;       b) Colonel\
+&#x20;       b) Department Head\
 \
 
 
@@ -134,26 +134,15 @@ F) High Command
 
 A) Patrol Operations
 
-&#x20;       a) Patrol Operations are the foundation of the department.  Each officer will patrol in a vehicle that corresponds to the vehicle structure on the roster.
-
-&#x20;        b) The Patrol Operations Department will have at minimum
-
-&#x20;                 i) 5 Deputies - 1 Sergeant&#x20;
-
-&#x20;                 ii) 10 Deputies - 1 Sergeant & 1 Staff Sergeant
-
-&#x20;                 iii) 1 Undersheriff for every 2 Lieutenants
-
-\
-
+&#x20;       a) Patrol Operations are the foundation of the department.  Each trooper will patrol in a vehicle that corresponds to the vehicle structure on the roster.
 
 B) Sub Division Management Team
 
-&#x20;       a) The Subdivision Management Team are the Pillars of the Blaine County Sheriff’s Office.  The Subdivision Management Team will have the Colonel overseeing it.
+&#x20;       a) The Subdivision Management Team are the Pillars of the New Hampshire State Police.  The Subdivision Management Team will have the Colonel overseeing it.
 
 &#x20;       b) To submit an Application to create and run a subdivision, a member must:
 
-&#x20;                   i) be the rank of sergeant or higher
+&#x20;                   i) be the rank of Captain or higher
 
 &#x20;                   ii) Have an SOP, Training Guide, and Application Ready
 
@@ -165,11 +154,11 @@ B) Sub Division Management Team
 
 &#x20;                   ii)K-9 Handler
 
-&#x20;                   iii) Game Warden
+&#x20;                   iii) SWAT / TAC-MED
 
-&#x20;                   iv) SWAT / TAC-MED
+&#x20;                   iv) H.E.A.T
 
-&#x20;                   v) Recruiter
+&#x20;                   iv) Recruiter
 
 ### ​Title 4: Disciplinary Guidelines
 
@@ -179,7 +168,7 @@ A) Guideline Basis
 
 B) Activity/Membership Requirements
 
-&#x20;       a) Each Deputy Regardless of Rank within the community must achieve the following activity requirements to maintain membership in the                      Blaine County Sheriff’s Office, and must meet ALL of the following criteria:
+&#x20;       a) Each Trooper Regardless of Rank within the community must achieve the following activity requirements to maintain membership in the New Hampshire State Police, and must meet ALL of the following criteria:
 
 &#x20;                  i) Achieved At LEAST 4 hours of patrol time per 2 Weeks
 
@@ -221,13 +210,13 @@ C) Disciplinary Actions
 
 A) Policy A: Initiation of pursuit
 
-&#x20;       a) Due to the extremely dangerous nature of pursuits, the initiation of a pursuit must have a viable reason to be initiated. (e.g. Felony warrant for  arrest, violent crime, etc.)
+&#x20;       a) Due to the extremely dangerous nature of pursuits, the initiation of a pursuit must have a viable reason to be initiated. (e.g. Felony warrant for  arrest, violent crime, taking off from a traffic stop, etc.)
 
 B) Policy B: Termination of pursuit
 
 &#x20;       a) Once a pursuit has been initiated, approximately five (5) minutes must pass before any termination techniques are executed.
 
-&#x20;       b) Any maneuver conducted must be authorized by both, the highest-ranking officer in the pursuit.
+&#x20;       b) Any maneuver conducted must be authorized by the highest-ranking officer in the pursuit.
 
 &#x20;       c) To terminate one of the following techniques are to be executed:
 
@@ -243,7 +232,7 @@ Roll-in Roadblock: Two pursuing vehicles will pull ahead of the fleeing vehicle,
 \
 
 
-Pursuit Intervention Technique: An officer will align the front bumper of their vehicle with the rear bumper of the fleeing vehicle, then turn into the vehicle causing its rear tires to break traction from the pavement. To execute the Pursuit Intervention Technique, the following conditions must be met:
+Pursuit Intervention Technique: A trooper will align the front bumper of their vehicle with the rear bumper of the fleeing vehicle, then turn into the vehicle causing its rear tires to break traction from the pavement. To execute the Pursuit Intervention Technique, the following conditions must be met:
 
 &#x20;                    a) The roadway must be paved with asphalt
 
