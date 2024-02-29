@@ -1,2 +1,0 @@
-# SASP SOP
-

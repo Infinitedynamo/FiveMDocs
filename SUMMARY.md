@@ -2,28 +2,12 @@
 
 * [Uprise Roleplay Documentation](README.md)
 
-## Blaine County Sheriff's Office
+## New Hampshire State Police
 
-* [👮  Member Roster](blaine-county-sheriffs-office/member-roster.md)
-* [🚓  Vehicle Roster](blaine-county-sheriffs-office/vehicle-roster.md)
-* [👕 Uniform Roster](blaine-county-sheriffs-office/uniform-roster.md)
-* [📄 New Hampshire State Police SOP](blaine-county-sheriffs-office/bcso-sop.md)
-
-## San Andreas State Police
-
-* [SASP SOP](san-andreas-state-police/sasp-sop.md)
-
-## Los Santos Police
-
-* [LSPD SOP](los-santos-police/lspd-sop.md)
-
-## San Andreas Fire & Rescue
-
-* [SAFR SOP](san-andreas-fire-and-rescue/safr-sop.md)
-
-## San Andreas Communications
-
-* [Communications SOP](san-andreas-communications/communications-sop.md)
+* [👮  Member Roster](new-hampshire-state-police/member-roster.md)
+* [🚓  Vehicle Roster](new-hampshire-state-police/vehicle-roster.md)
+* [👕 Uniform Roster](new-hampshire-state-police/uniform-roster.md)
+* [📄 New Hampshire State Police SOP](new-hampshire-state-police/new-hampshire-state-police-sop.md)
 
 ## Civilian Operations
 

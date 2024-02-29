@@ -44,7 +44,17 @@ description: New Hampshire State Police SOP. Read thoroughly.
 
 7\. Civilian Ride Along
 
-8\. The Use-Of-Force Continuum&#x20;
+8\. The Use-Of-Force Continuum \
+\
+9\. Patrol Equipment\
+\
+10\. Code Driving\
+\
+11\. Driving Laws\
+\
+12\. Miranda Rights\
+\
+13\. TO Guidelines
 
 
 
@@ -92,11 +102,11 @@ A) ​Reason for the Structure
 
 &#x20;       a) Each Department has a developed structure within GSRP as it helps create a safe, effective, and efficient chain of command and stance as to where members stand.
 
-&#x20;       a) Promotions, will be on a case-by-case basis until achieving the rank of Sergeant, Based on Roleplay, leadership skills, and Activity; not tenure or time overall in the community.
+&#x20;       a) Promotions, will be on a case-by-case basis until achieving the rank of Senior Sergeant, Based on Roleplay, leadership skills, and Activity; not tenure or time overall in the community.
 
 &#x20;                    i) Asking for a promotion, or asking in a roundabout way, will result in a full reset of your rank in the State Police.
 
-&#x20;                    ii) Ranks past the rank of Lieutenant are Competitive, meaning the best-qualified Sergeants will achieve those ranks.
+&#x20;                    ii) Ranks past the rank of Lieutenant are Competitive, meaning the best-qualified Senior Sergeants will achieve those ranks.
 
 ​
 
@@ -114,13 +124,13 @@ D) Supervisor Ranks
 
 &#x20;       a) Lieutenant
 
-&#x20;       b) Captain
+&#x20;       b) Training Officer
 
 E) Command Staff
 
-&#x20;       a) Major
+&#x20;       a) Captain
 
-&#x20;       b) Field Training Officer
+&#x20;       b) Major
 
 F) High Command
 
@@ -252,16 +262,90 @@ Pursuit Intervention Technique: A trooper will align the front bumper of their v
 
 &#x20;       c) The civilian may not have any outstanding citations.
 
-### ​Title 8: The Use-Of-Force Continuum
+### &#x20;Title 8: The Use-Of-Force Continuum
 
-a) Officer Presence — No force is used. Considered the best way to resolve a situation.&#x20;
+&#x20;       a) Officer Presence — No force is used. Considered the best way to resolve a situation.&#x20;
 
-b) Verbalization — Force is not physical.
+&#x20;       b) Verbalization — Force is not physical.
 
-c) Empty-Hand Control — Officers use bodily force to gain control of a situation.
+&#x20;       c) Empty-Hand Control — Officers use bodily force to gain control of a situation.
 
-d) Less-Lethal Methods — Officers use less-lethal technologies to gain control of a situation.
+&#x20;      d) Less-Lethal Methods — Officers use less-lethal technologies to gain control of a situation.
 
-e) Lethal Force — Officers use lethal weapons to gain control of a situation. Should only be used if a suspect poses a serious threat to the officer or another individual.
+&#x20;      e) Lethal Force — Officers use lethal weapons to gain control of a situation. Should only be used if a suspect poses a serious threat to the officer or another individual.
+
+### ​Title 9: Patrol Equipment
+
+&#x20;    a) CAD / MDT Tablet&#x20;
+
+&#x20;    b) Issued Weapons
+
+&#x20;    c) Medical Kit (BLS) (ALS If TAC-MED certified)
+
+&#x20;    d) Fire Extinguisher
+
+&#x20;    e) Flashlight
+
+### Title 10: Code Driving
+
+Code 1: No Emergency Lights or Sirens
+
+&#x20;    a) Normal Driving
+
+&#x20;   b) Follow all traffic laws
+
+Code 2: Emergency lights&#x20;
+
+&#x20;    a) May only activate emergency siren, while crossing through the intersection
+
+&#x20;    b) Emergency lights are to be activated
+
+&#x20;    c) Do not use excessive speeds.
+
+Code 3: Lights and Sirens
+
+&#x20;    a) All emergency equipment will be activated and the Trooper is to drive safely but quickly to get to the scene of the crime/incident.&#x20;
+
+
+
+### Title 11: Driving Laws
+
+&#x20;    a) All Troopers are required to follow all state and federal traffic laws while on and off duty. Failure to do so while on duty will cause you to lose the right to drive.  NOTE: You will then be required to ride along with a Supervisor until you’re seen fit to drive while on duty.\
+&#x20;   \
+&#x20;    b) While off duty, all New Hampshire State Police Troopers are expected to be on their best behavior. Anything such as a DUI, or being caught with any type of drugs will result in immediate removal from the department.&#x20;
+
+
+
+### Title 12: Miranda Rights
+
+&#x20;    a) The Miranda Rights is a type of notification customarily given by police to criminal suspects in police custody (or in a custodial interrogation) advising them of their right to silence; that is, their right to refuse to answer questions or provide information to law enforcement or other officials.\
+\
+&#x20;    b) You have the right to remain silent. Anything you say can be used against you in court. You have the right to talk to a lawyer for advice before we ask you any questions. You have the right to have a lawyer with you during questioning. If you cannot afford a lawyer, one will be appointed for you before any questioning if you wish. If you decide to answer questions now without a lawyer present, you have the right to stop answering at any time.
+
+
+
+### Title 13: TO Guidelines
+
+&#x20;    a) TO's will primarily handle training and ride alongs. Trooper trainees are required to do at least 2 ride alongs and one final evaluation ride-along called plain clothes day, which means that TO's will let the trainee take&#x20;
+
+Ride-alongs can be done by anyone that is an TO, no matter their rank.
+
+* Final Evaluations of the TO are to be done by the Captain or Higher.
+* An TO, that doesn't do training or ride alongs will be removed from their position as an TO.&#x20;
+* You will keep all records of training and ride alongs.&#x20;
+
+\
+
+
+
+
+\
+
+
+
+
+
+
+
 
 \
